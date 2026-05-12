@@ -19,3 +19,7 @@
 ## Project Status
 
 **Project Proposal:** Completed (20/4/2026)
+
+## Progression
+
+**Fixing project survey:** In Process (12/5/2026)
