@@ -1,4 +1,4 @@
-# Nautica_Project1_SAD_20252026
+# FlexRent_Project1_SAD_20252026
 
 **SECD2613 - System Analysis and Design**
 
